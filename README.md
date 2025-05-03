@@ -15,7 +15,7 @@ Python · TensorFlow · PyTorch · SQL · GCP · AWS · Git · React · R
 | **Meridian MMM** | Bayesian Marketing Mix Modeling with TensorFlow backend |
 
 ## 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/ajaydasakunuri) • [Email](mailto:akunuriajaydas95@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ajay-das-929122135/) • [Email](mailto:akunuriajaydas95@gmail.com)
 
 
 <!---
